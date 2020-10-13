@@ -1,0 +1,12 @@
+valor_digitado = int(input())
+
+print("1 x {} =".format(valor_digitado), 1 * valor_digitado)
+print("2 x {} =".format(valor_digitado), 2 * valor_digitado)
+print("3 x {} =".format(valor_digitado), 3 * valor_digitado)
+print("4 x {} =".format(valor_digitado), 4 * valor_digitado)
+print("5 x {} =".format(valor_digitado), 5 * valor_digitado)
+print("6 x {} =".format(valor_digitado), 6 * valor_digitado)
+print("7 x {} =".format(valor_digitado), 7 * valor_digitado)
+print("8 x {} =".format(valor_digitado), 8 * valor_digitado)
+print("9 x {} =".format(valor_digitado), 9 * valor_digitado)
+print("10 x {} =".format(valor_digitado), 10 * valor_digitado)
